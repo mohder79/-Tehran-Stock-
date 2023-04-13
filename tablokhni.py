@@ -13,7 +13,6 @@ import pandas as pd
 
 import easy_kline as es
 
-es.binance
 
 
 
